@@ -1,7 +1,6 @@
 import login from '../selectors/login.sel'
 import Loginn from '../page_objects/login'
 
-
 describe('Login', () => {
 
     const login_access = new Loginn()
@@ -15,7 +14,7 @@ describe('Login', () => {
         })
 
         it('can I click on the aceptar continue button?', () => {
-            // cy.get(login.ACEPTAR_CONTINUAR_BUTTON_ELEM).click()
+            
 
              login_access.click_on_aceptar_continuar_button()
              cy.wait(1000)
