@@ -8,7 +8,7 @@ describe('Login', () => {
     
     context('unsuccessful', () => {
         beforeEach(() => {
-            // visit ('/login') -> will visit baseUrl + /login
+            
             // baseUrl is set in config - cypress.json file
             cy.visit('')
         })
