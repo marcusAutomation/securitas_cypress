@@ -6,7 +6,7 @@ describe('Login', () => {
     const login_access = new Loginn()
 
     
-    context('unsuccessful', () => {
+    context('successful login', () => {
         beforeEach(() => {
 
             // baseUrl is set in config - cypress.json file
