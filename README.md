@@ -11,4 +11,9 @@
 
 ![image](https://user-images.githubusercontent.com/48861601/110022516-af6f2400-7d34-11eb-8b13-f21789331cb3.png)
 
+## :gear: Setup
+
+1. `https://github.com/marcusAutomation/securitas_cypress`
+2. cd to `cypress-example` folder and run `npm install`
+
 
