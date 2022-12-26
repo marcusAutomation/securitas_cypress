@@ -1,4 +1,4 @@
-# securitas_cypress
+
 # **Simple** E2E test suite with Cypress
 [![cypress-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/urshkd&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/urshkd/runs) [![cypress-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/count/urshkd&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/urshkd/runs)
 
@@ -16,3 +16,15 @@
 
 1. `https://github.com/marcusAutomation/securitas_cypress`
 2. cd to `cypress-example` folder and run `npm install`
+
+## :heavy_check_mark: Run tests
+
+- If you installed Cypress via npm: 
+    - cypress test runner (cypress __open__):
+      - **`npm run cy:open:web`** OR `cypress open --env device=web` (change web to mob to switch to mobile view)
+    
+    - cypress __headless mode__ (cypress run):
+      - `npm run cy:run:web` OR `cypress run --env device=web`
+- If you installed Cypress zip:
+    - import **`cypress-example`** folder and you are good to go
+
