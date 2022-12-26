@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# securitas_cypress
+>>>>>>> bug_fix
 # **Simple** E2E test suite with Cypress
 [![cypress-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/urshkd&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/urshkd/runs) [![cypress-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/count/urshkd&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/urshkd/runs)
 
@@ -15,5 +19,3 @@
 
 1. `https://github.com/marcusAutomation/securitas_cypress`
 2. cd to `cypress-example` folder and run `npm install`
-
-
