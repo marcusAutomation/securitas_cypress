@@ -15,6 +15,9 @@
 ## :gear: Setup
 
 1. `https://github.com/marcusAutomation/securitas_cypress`
+<<<<<<< HEAD
+2. cd to `cypress-example` folder and run `npm install`
+=======
 2. cd to `cypress-example` folder and run `npm install`
 
 ## :heavy_check_mark: Run tests
@@ -28,3 +31,4 @@
 - If you installed Cypress zip:
     - import **`cypress-example`** folder and you are good to go
 
+>>>>>>> bug_fix
