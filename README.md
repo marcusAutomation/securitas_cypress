@@ -30,3 +30,10 @@
     - import **`cypress-example`** folder and you are good to go
 
 
+## :bulb: Information
+#### :test_tube: Tests:
+:file_folder: Tests are located in `cypress/e2e` folder
+
+:file_folder: Custom commands are located in `cypress/support` folder (`.cmd.js` suffix)
+
+:file_folder: Selectors (CSS selectors) are located in `cypress/selectors` folder [only difference from cypress default project structure] - __not__ using page object model(POM) design pattern but keeping selectors (only selectors) separately
